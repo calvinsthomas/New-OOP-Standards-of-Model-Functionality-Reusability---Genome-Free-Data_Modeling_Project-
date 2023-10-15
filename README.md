@@ -3,7 +3,7 @@ New OOP Standards of Model Functionality Reusability - Genome-Free Data_Modeling
 
 Advocating open-sourcing GPT-parameters as well for understanding of inner model workings.
 
-GPT-technology is being replicated and modularly-packaged, but the question is how to consistently create output-generated unique, novel insights, which are always welcome in open-source world.
+Summary: GPT-technology is being replicated and modularly-packaged, where true model understanding and insights are limited to private owners. However, the question is how to consistently create output-generated unique, novel insights, which are always welcome in open-source world.
 
 Calvin Thomas
 
