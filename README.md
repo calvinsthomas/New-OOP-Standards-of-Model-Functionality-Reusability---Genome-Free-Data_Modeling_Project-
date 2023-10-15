@@ -5,6 +5,8 @@ Advocating open-sourcing GPT-parameters as well for understanding of inner model
 
 Summary: GPT-technology is being replicated and modularly-packaged, where true model understanding and insights are limited to private owners. However, the question is how to consistently create output-generated unique, highly-relevant, and novel insights for users, which are always welcome in open-source world.
 
+Provide anonymized metrics of weights and biases, etc rated for each response or chat, so users can approximately know and test/replicate how that specific prompted output or chat insight was generated.
+
 Calvin Thomas
 
 Every workday, from [your local time] 8AM to 5PM, developers at firms likely type many-multiple-millions of lines of code, and firm-level worldwide-used models as an amalgamated group creating billions of actionable signal insights via real-time model outputs for executive decision-making. Social Media on the weekend and on breaks creating a sprawling unmanageable dataset that cannot be possibly reviewed by individual developers, or truly reviewed row-by-row to truly navigate how to wrangle and classify the unstructured dataset. With this new territory comes increasing model complexity risk that internal review cannot fix, and generating novel insights from large unstructured datasets in their exact same category (undiversified datasets create latent “hidden variable” tail-risks) with only internal modeling, code, and data. This is a huge waste that can be immediately fixed for eliminating the largest corporate tail risk – outside developers non-biased review and assessment for cracks.
