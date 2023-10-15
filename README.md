@@ -1,6 +1,8 @@
 # New OOP Standards of Model Functionality Reusability - Genome-Free Data_Modeling_Project – First Step, Data Mining, Unstructured ML and Data Modeling
 New OOP Standards of Model Functionality Reusability - Genome-Free Data_Modeling_Project – First Step, Data Mining, Unstructured ML and Data Modeling
 
+Advocating open-sourcing GPT-parameters as well for understanding of inner model workings.
+
 Calvin Thomas
 
 Every workday, from [your local time] 8AM to 5PM, developers at firms likely type many-multiple-millions of lines of code, and firm-level worldwide-used models as an amalgamated group creating billions of actionable signal insights via real-time model outputs for executive decision-making. Social Media on the weekend and on breaks creating a sprawling unmanageable dataset that cannot be possibly reviewed by individual developers, or truly reviewed row-by-row to truly navigate how to wrangle and classify the unstructured dataset. With this new territory comes increasing model complexity risk that internal review cannot fix, and generating novel insights from large unstructured datasets in their exact same category (undiversified datasets create latent “hidden variable” tail-risks) with only internal modeling, code, and data. This is a huge waste that can be immediately fixed for eliminating the largest corporate tail risk – outside developers non-biased review and assessment for cracks.
