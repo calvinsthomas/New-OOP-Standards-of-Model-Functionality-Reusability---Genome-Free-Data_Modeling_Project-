@@ -7,7 +7,7 @@ Implicit Summary: GPT-technology is being replicated and modularly-packaged, whe
 
 Provide anonymized metrics of weights and biases, etc rated for each response or chat, so users can approximately know and test/replicate how that specific prompted output or chat insight was generated.
 
-Finally, if GPT creations are assembled by each fractionally-weighted corpus element, then we should reuse all human-created code corpus already existing in ChatGPT's training, to create new code synthetically generated and ALL recycled from old repositories, for the greatest chance of centralizing new code "bubble" protocol and standard model complexity as uniformly distributed by all existing localized, industry and global programs; implicit standardization of programming rules created by all existing code to 2021, and true reusability standards domestically and internationally centered and abiding by OOP.
+Finally, if GPT creations are assembled by each fractionally-weighted corpus element, then we should reuse all human-created code corpus already existing in ChatGPT's training, to create new code synthetically generated and ALL recycled from old repositories, for the greatest chance of centralizing new code "bubble" protocol and standard code/model complexity as uniformly distributed by all existing localized, industry and global programs; implicit standardization of programming rules created by all existing code to 2021, and true reusability standards domestically and internationally centered and abiding by OOP.
 
 Calvin Thomas
 
